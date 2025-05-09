@@ -153,13 +153,7 @@ And simply use `go install`
 go install github.com/Achno/gowall@latest
 ```
 
-# Contributions :handshake:
-
-If you wish to contribute by adding a new theme please open an `issue`
-I would also be very happy if you can provide the `rgb values` of your theme as well :) but not required if it's popular
-
-Feel free to suggest any cool features that would improve gowall even further by opening an `issue` 
-
+ 
 # Special Thanks
 
 Special thanks to [lutgen](https://github.com/ozwaldorf/lutgen-rs) for the original implementation of the color correction algorithm which i adapted for this project.
